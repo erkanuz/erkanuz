@@ -5,10 +5,12 @@
 <p align="center"> I'm trying to learn everything about web development 😅 </p>
 
 <h2 align = "center"> Follow me: </h2>
+<div align="center"><br>
 <img src="https://github.com/erkanuz/erkanuz/blob/master/socials/instagram.png" alt="" height="30">
 <img src="https://github.com/erkanuz/erkanuz/blob/master/socials/youtube.png" alt="" height="30">
 <img src="https://github.com/erkanuz/erkanuz/blob/master/socials/figma.png" alt="" height="30">
 <img src="https://github.com/erkanuz/erkanuz/blob/master/socials/linkedin.png" alt="" height="30">
+</div>
 
 <h3 align = "center" > Languages and Tools: </h3>
 <div align="center"><br>
