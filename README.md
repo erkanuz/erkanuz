@@ -9,7 +9,6 @@
 
 <div>
   <img width="304" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkanuz&layout=compact&theme=transparent" alt="erkanuz"/>
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=erkanuz&show_icons=true&count_private=true&theme=transparent&include_all_commits=true" alt="erkanuz"/>
 </div>
 
 ### My main stack:
